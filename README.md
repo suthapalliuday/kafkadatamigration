@@ -21,5 +21,6 @@ Query – select * from orders;
 
 
 count query – 
+
  ![image](https://github.com/suthapalliuday/kafkadatamigration/assets/96214945/7c34d6e7-2ca7-4742-b2c9-08463db04467)
 
